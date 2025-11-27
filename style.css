@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+   nav.navbar {
+      background-color: rgb(0, 76, 22) !important;
+    }
+    nav .nav-link {
+      color: white !important;
+      font-weight: 500;
+    }
+    nav .nav-link:hover {
+      text-decoration: underline;
+    }
+    .hero {
+      padding: 80px 0;
+      text-align: center;
+    }
+    .hero h1 {
+      font-size: 4.5rem;
+      font-weight: bold;
+      font-family: Fredericka the Great;
+    }
+
+    a
+    {
+        font-family: Fredericka the Great;
+    }
+
+    footer
+    {
+         background-color: rgb(0, 76, 22) !important;
+         color: white !important;
+    }
